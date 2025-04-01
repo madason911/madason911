@@ -5,8 +5,8 @@
 
 ---
 
-### 🚀 **Обо мне**  
-💻 Frontend-developer with 3+ years of experience 
+### 🚀 **About me**  
+💻 Frontend-developer with 3+ years of experience <br/>
 👥 I am developing my IT community for offline meetings with **170+ members**  
 
 ---
@@ -20,13 +20,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)  
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
----
-
-### 📊 **GitHub Статистика**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 ---
 
