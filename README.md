@@ -6,8 +6,8 @@
 ---
 
 ### 🚀 **About me**  
-💻 Frontend-developer with 3+ years of experience <br/>
-👥 I am developing my IT community for offline meetings with **170+ members**  
+💻 Frontend-developer with 4+ years of experience <br/>
+👥 I am developing my IT community for offline meetings with **270+ members**  
 
 ---
 
